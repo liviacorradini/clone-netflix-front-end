@@ -1,3 +1,7 @@
-#Clone Front-End da NetFlix 
+# Clone Front-End da NetFlix 
 
-<img src=".\home"/>
+Pagina Home
+<img src=".\home.png"/>
+
+Pagina Login 
+<img src=".\login.png">
